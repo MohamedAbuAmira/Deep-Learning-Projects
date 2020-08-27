@@ -17,7 +17,7 @@
 #### Competitions
 1. [Digit Recognizer Competition](https://www.kaggle.com/mohamedtayser/cnn-with-tpu-for-mnist)
    - Top 5%, 99.87% Accuracy.
-2- [SIIM-ISIC Melanoma Classification Competition](https://www.kaggle.com/mohamedtayser/siim-isic-melanoma-classification)
+2. [SIIM-ISIC Melanoma Classification Competition](https://www.kaggle.com/mohamedtayser/siim-isic-melanoma-classification)
    - Top 79%, 87% Accuracy.
 #### Notebooks
 1. [Dog Breed Classifier by TF using Transfer Learn
